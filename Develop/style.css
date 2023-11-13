@@ -89,7 +89,6 @@ header {
 }
 
 button[disabled] {
-  /* what does 'disabled' do? */
   cursor: default;
   background: #c0c7cf;
 }
