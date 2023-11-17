@@ -37,3 +37,8 @@ https://anplace.github.io/Password-Generator/
 
 ### Github Link
 https://github.com/anplace/Password-Generator
+
+### Acknowledgements 
+Some of the code within this site was sourced through the instructor staff. The HTML, CSS and 5-10 lines of Javascript were given to me.
+A tutor was utilized but merely prompted me with questions and assisted with syntax. The AskBCS Learning Assistance was utilized for some
+inspiration code but never copied and pasted directly. The rest of the code is originally mine.
