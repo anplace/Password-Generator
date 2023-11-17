@@ -31,3 +31,9 @@ After my initial coding, I had over 150 lines of codes but once I determined thi
 While working on this, I hit a few walls and was getting frustrated as this is my first week coding in Java Script. I turned to the University of Texas at Austins, AI which is similart to ChatGPT. The AI is preloaded with all the information relevant to this class so any answers are tailor made for students like myself.
 
 When I prompted the AI with one question about how to code a certain aspect, it unlocked a key understanding of JS in my mind and I suddenly understood the whole program and was able to finish the project in an afternoon.
+
+### Deployed Site
+https://anplace.github.io/Password-Generator/
+
+### Github Link
+https://github.com/anplace/Password-Generator
